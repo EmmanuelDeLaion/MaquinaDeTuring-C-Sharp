@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.exe.config
+C:\Users\USER\source\repos\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.exe
+C:\Users\USER\source\repos\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.pdb
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.Form1.resources
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.Properties.Resources.resources
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.exe
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.pdb
+C:\Users\USER\source\repos\MaquinaDeTuring\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csproj.CopyComplete
